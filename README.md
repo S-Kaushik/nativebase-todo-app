@@ -127,39 +127,4 @@ Having tried with the free version, Native Starter Kit and appreciate our produc
 
 Get on the mobile fast track with [Native Starter Pro](http://strapmobile.com/native-starter-pro/), to build high-quality iOS and Android mobile apps. 
 
-Based on [React Native](https://facebook.github.io/react-native/) and [NativeBase](http://nativebase.io/docs/v0.4.6/), Native Starter Pro is a beautifully designed, responsive iOS and Android app source code to quickly get started on your next project. 
-
-Native Starter Pro is a flexible React Native theme, built using [NativeBase](http://nativebase.io/documentation) and [Redux](https://github.com/reactjs/react-redux) with fusion of [ES6](http://es6-features.org/#Constants) which is best suited for developing apps that makes use of ready-made tools. The theme has several widget areas that allows you to extend your theme functionality with plugins. 
-
-Native Starter Pro includes following ready-to-use and highly customizable components :
-
--	Button with various shapes and themes
--	Textbox
--	Form Elements
--	List
--	Header
--	Footer
--	Drawer
--	Full fledged collection of Icons
--	Spinner:Animated loading indicators which are flexible in diverse size and color.
--	ProgressBar: To visualize the process of work.
--	Modal
--	Ready to use Email Template
--	Interactive design of Calendar with fast swiping feature.
--	Scroll between the tabs
--	Responsive Navigator
--	Chat Messenger
--	Ready to use screens
--	Easy theme customization
--	[Read More](http://strapmobile.com/docs/native-starter-pro/v3.0/)
-
-**Quick links to Native Starter Pro**
-
--	*[Native Starter Pro Features](http://strapmobile.com/docs/native-starter-pro/v3.0/overview/whats-new-in-v3-0)*
--	*[Native Starter Pro Components](http://strapmobile.com/docs/native-starter-pro/v3.0/components)*
--	*[Native Starter Pro's App Generator](http://strapmobile.com/customizer/#/color)*
--	*[Native Starter Pro Releases](http://strapmobile.com/native-starter-pro-releases/)*
-
-
-
-
+**Work in progress. Stay tuned!**
